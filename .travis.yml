@@ -1,3 +1,6 @@
+before install:
+  - "sudo apt-get install graphviz"
+  
 sudo: false
 
 branches:
